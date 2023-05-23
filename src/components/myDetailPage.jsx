@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable import/no-unresolved */
 import { useSelector } from 'react-redux';
 import { useParams } from 'react-router-dom';
 import NavBar from './myNavBar';

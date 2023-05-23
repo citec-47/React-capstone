@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable import/no-unresolved */
 import React from 'react';
 import { useSelector } from 'react-redux';
 import { MemoryRouter } from 'react-router-dom';

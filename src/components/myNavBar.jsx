@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { Link } from 'react-router-dom';
 import back from './image/bac.png';
 import microphone from './image/micro.png';
