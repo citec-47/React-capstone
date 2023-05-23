@@ -1,3 +1,5 @@
+/* eslint-disable import/no-unresolved */
+/* eslint-disable no-unused-vars */
 import React from 'react';
 import renderer from 'react-test-renderer';
 import { BrowserRouter as Router } from 'react-router-dom';
