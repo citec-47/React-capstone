@@ -1,5 +1,3 @@
-/* eslint-disable import/no-unresolved */
-/* eslint-disable no-unused-vars */
 import { useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
 import { useState } from 'react';
