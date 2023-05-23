@@ -97,7 +97,7 @@ Clone this repository to your desired folder:
 ```sh
   cd your-prefered-folder
   
-  git clone https://github.com/Atril33/react-redux-capstone.git
+  git clone https://github.com/citec-47/React-capstone.git
 ```
 
 ### Install
