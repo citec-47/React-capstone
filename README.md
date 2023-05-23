@@ -78,7 +78,6 @@ _ **[React, Redux & javascript functions, modules, ES6 syntax, variables, React 
 ## 🚀 Live Demo <a href="https://react-redux-capstone-q0vaxnxec-atril33.vercel.app/">Live Link</a>
 
 <!-- GETTING STARTED -->
-<!-- AUTHORS -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
