@@ -78,7 +78,6 @@ _ **[React, Redux & javascript functions, modules, ES6 syntax, variables, React 
 ## 🚀 Live Demo <a href="https://maurice.onrender.com/">Live Link</a>
 
 <!-- GETTING STARTED -->
-<!-- AUTHORS -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -98,7 +97,7 @@ Clone this repository to your desired folder:
 ```sh
   cd your-prefered-folder
   
-  git clone https://github.com/Atril33/react-redux-capstone.git
+  git clone https://github.com/citec-47/React-capstone.git
 ```
 
 ### Install
@@ -173,13 +172,14 @@ Feel free to check the [issues page](../../issues/).
 
 > I would like to thanks and give appropriate credit to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)), for the design inspiration as required by the [Creative Commons License](https://creativecommons.org/licenses/)
 
+>I would like to thanks and give appropriate Microverse for this huge opportunity  [My Loom Video](https://www.loom.com/share/b78e8da03e3d47e7bb1b4c16008f15a8/) 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="License"></a>
 
-> This project has [MIT license](https://github.com/citec-47/React-capstone.git/LICENSE)
+> This project has [MIT License](https://github.com/citec-47/React-capstone/blob/map/LICENSE)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
