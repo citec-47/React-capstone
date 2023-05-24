@@ -177,9 +177,9 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="License"></a>
 
-> This project has [MIT license](https://github.com/citec-47/React-capstone.git/LICENSE)
+> This project has [MIT License] (https://github.com/citec-47/React-capstone/blob/map/LICENSE)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
