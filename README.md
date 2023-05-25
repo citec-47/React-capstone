@@ -174,7 +174,7 @@ Feel free to check the [issues page](../../issues/).
 
 
 >I would like to thanks and give appropriate Microverse for this huge opportunity  [My Loom Video](https://www.loom.com/share/a304113735bb432b9dab4374efbc095a) 
-=======
+
 >I would like to thanks and give appropriate Microverse for this huge opportunity  [My Loom Video](https://www.loom.com/share/b78e8da03e3d47e7bb1b4c16008f15a8/) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
