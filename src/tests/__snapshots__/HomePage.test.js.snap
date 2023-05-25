@@ -61,7 +61,7 @@ Array [
     className="container"
   >
     <a
-      className="small-container"
+      className="small-container "
       href="/countries/Test Country 1"
       onClick={[Function]}
     >
@@ -84,7 +84,7 @@ Array [
       </div>
     </a>
     <a
-      className="small-container"
+      className="small-container active"
       href="/countries/Test Country 2"
       onClick={[Function]}
     >
@@ -107,7 +107,7 @@ Array [
       </div>
     </a>
     <a
-      className="small-container"
+      className="small-container active"
       href="/countries/Test Country 3"
       onClick={[Function]}
     >

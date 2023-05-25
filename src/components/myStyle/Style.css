@@ -48,8 +48,8 @@ body {
   overflow: hidden;
 }
 
-.small-container:nth-child(even) {
-  background: #095669cb;
+.active{
+  background-color: #095669cb;
 }
 
 .country-info {
