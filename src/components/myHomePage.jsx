@@ -28,8 +28,13 @@ const Homepage = () => {
       <input type="text" value={searchinCountry} onChange={handleMyCountry} placeholder="&#x1F50D; Search Country Here" className="search-input" />
       <div className="status-bar"><h2 className="country-status">Stats by Country</h2></div>
       <div className="container">
-        {filterData.map((item) => (
-          <Link to={`/countries/${item.name}`} key={item.name} className="small-container">
+        {filterData.map((item, index) => (
+          <Link
+            to={`/countries/${item.name}`}
+            key={item.name}
+            className={`small-container ${index === 1 || index === 2
+            || index === 5 || index === 6 || index === 9 || index === 10 ? 'active' : ''}`}
+          >
             <img src={countryMap} alt={item.name} className="country-map" />
             <div className="country-info">
               <h2 className="country-name">{item.name}</h2>
